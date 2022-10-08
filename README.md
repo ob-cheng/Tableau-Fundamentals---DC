@@ -1,6 +1,6 @@
 # Tableau-Fundamentals Datacamp
 
-# Dataset Download Instructions
+## Dataset Download Instructions
 
 To download the latest version of the Tableau workbooks that are used in this course, you can follow the following steps:
 1. Go to: https://public.tableau.com/profile/datacamp.introduction.to.tableau#!/. You should be able to see all the workbooks that are used in the course there.
