@@ -8,3 +8,4 @@ To download the latest version of the Tableau workbooks that are used in this co
 3. Click the download button to download the workbook.
 4. You should now be able to open the .twbx file you just downloaded using your local version of Tableau.
 
+Alternatively, you can find the datasets used in this course under the folder "data source."
